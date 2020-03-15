@@ -4,7 +4,7 @@
   "description": "A handful of SCSS Utils I use and SassDocs notation on how to use them.",
   "main": "index.js",
   "scripts": {
-    "start": "sassdoc styles/*"
+    "start": "sassdoc styles/* -d docs"
   },
   "keywords": [
     "scss",
