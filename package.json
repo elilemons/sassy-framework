@@ -1,0 +1,15 @@
+{
+  "name": "sassy-framework",
+  "version": "1.0.0",
+  "description": "A handful of SCSS Utils I use and SassDocs notation on how to use them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scss",
+    "sass"
+  ],
+  "author": "Lisa Lemons",
+  "license": "ISC"
+}
